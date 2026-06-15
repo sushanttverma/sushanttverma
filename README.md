@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sushant and I'm a Web Developer</h2>
+<h2 align="left">Hi 👋! My name is Sushant and I'm a Full Stack Developer</h2>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3dW15aGZoMDE2cDNuNnR4czd3MHgzMGIxbmduaDg0aDBzMjJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.webp"  />
 
