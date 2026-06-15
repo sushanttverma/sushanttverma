@@ -61,3 +61,8 @@ Thanks for stopping by :)<br>
 Always happy to talk shop, swap ideas, or build something cool together.<br>
 
 </samp>
+
+<!-- Contribution snake (transparent SVG, no background) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushanttverma/sushanttverma/output/github-snake-dark.svg" alt="snake animation" />
+</p>
