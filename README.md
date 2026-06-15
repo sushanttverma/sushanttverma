@@ -1,55 +1,60 @@
-<h2 align="left">Hi 👋! My name is Sushant and I'm a Full Stack Developer</h2>
+<!-- =========================================================
+  Sushant Verma — GitHub Profile README (terminal/plain style)
+  Goes in repo "sushanttverma" → README.md
+  The <pre> tag gives the monospace terminal look; <a> tags keep links clickable.
+  Edit any text freely; keep the <a href="..."> format for links.
+========================================================= -->
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3dW15aGZoMDE2cDNuNnR4czd3MHgzMGIxbmduaDg0aDBzMjJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.webp"  />
+<pre>
+SUSHANT VERMA
+Full-Stack Engineer · AI / LLM
 
+Turning ideas into shipped products.
+Currently building AI-powered features for an edtech device platform.
 
-<br/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
-<br/>
+------------------
+Connect With Me
 
+» Portfolio    → <a href="https://sushantverma.site">sushantverma.site</a>
+» LinkedIn     → <a href="https://linkedin.com/in/sushanttverma">in/sushanttverma</a>
+» X / Twitter  → <a href="https://x.com/styxuu_">@styxuu_</a>
+» Email        → sushantt.verma@gmail.com
 
-<div align="left">
-  <a href="styxuu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="sushantt.verma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sushant-verma-523151198/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+------------------
+Skills & Tools
 
+» Frontend:    React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS
+» Backend:     Node.js, Go, Python, Express.js, REST & GraphQL APIs
+» Databases:   PostgreSQL, MongoDB, Redis, Prisma
+» AI / LLM:    LLM Integration, RAG, Prompt Engineering, OpenAI, Azure AI
+» DevOps:      AWS, GCP, Docker, Kubernetes, CI/CD, Linux
+» Mobile:      Kotlin, Android, AOSP
 
+------------------
+Featured Projects
 
-<br clear="both">
+● Praxys UI
+  + Open-source React component library with 138 animated components, single-CLI install.
+  + <a href="https://ui.praxys.xyz">ui.praxys.xyz</a> · <a href="https://www.npmjs.com/package/@praxys/ui">npm: @praxys/ui</a>
 
-<img src="https://raw.githubusercontent.com/iamstyx/iamstyx/refs/heads/output/github-snake-dark.svg" alt="Snake animation" />
+● INZ UI
+  + Accessible React component library, 30+ components, dark mode, WCAG compliant.
+  + <a href="https://inz-ui.vercel.app">inz-ui.vercel.app</a>
+
+● Deosil
+  + Live full-stack e-commerce platform with payments and 3D product views.
+  + <a href="https://deosilperfumery.com">deosilperfumery.com</a>
+
+● ZazooAI
+  + AI meeting assistant with real-time transcription and AI-generated summaries.
+  + Stack: React, Express, Azure Speech, OpenAI
+
+● React-Startify
+  + Zero-config CLI to scaffold React projects in seconds.
+  + <a href="https://github.com/sushanttverma/React-Startify">github.com/sushanttverma/React-Startify</a>
+</pre>
+
+<!-- Optional: contribution snake below the terminal block (remove if you don't want it) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushanttverma/sushanttverma/output/github-snake-dark.svg" alt="snake animation" />
+</p>
