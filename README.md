@@ -39,10 +39,6 @@ Currently building AI-powered features for edtech, plus open-source tools for de
 &nbsp;&nbsp;✦ Open-source React component library with 138 animated components, single-CLI install.<br>
 &nbsp;&nbsp;✦ Links: <a href="https://ui.praxys.xyz">ui.praxys.xyz</a> • <a href="https://www.npmjs.com/package/@praxys/ui">npm: @praxys/ui</a><br>
 <br>
-● INZ UI<br>
-&nbsp;&nbsp;✦ Accessible React component library, 30+ components, dark mode, WCAG compliant.<br>
-&nbsp;&nbsp;✦ Links: <a href="https://inz-ui.vercel.app">inz-ui.vercel.app</a><br>
-<br>
 ● React-Startify<br>
 &nbsp;&nbsp;✦ Zero-config CLI to scaffold React projects in seconds.<br>
 &nbsp;&nbsp;✦ Links: <a href="https://github.com/sushanttverma/React-Startify">github.com/sushanttverma/React-Startify</a><br>
